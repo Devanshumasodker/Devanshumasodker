@@ -11,19 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devanshumasodker](https://github.com/Devanshumasodker)
 
-- 📝 I regularly write articles on [medium](medium)
-
 - 💬 Ask me about **front-end**
 
 - 📫 How to reach me **devanshumasodker@gmail.com**
 
-- 📄 Know about my experiences [working on it](working on it)
-
-- ⚡ Fun fact **I think i am funnt**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
